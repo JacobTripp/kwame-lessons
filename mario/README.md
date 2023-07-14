@@ -1,2 +1,7 @@
 # Mario
-https://cs50.harvard.edu/x/2020/psets/1/mario/less/#:~:text=Toward%20the%20en
+
+## Testing
+To run tests, in the `mario` directory, run the following in your terminal:
+```bash
+make test
+```
