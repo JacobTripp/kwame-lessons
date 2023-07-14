@@ -10,6 +10,7 @@ func main() {
 // TODO for kwame
 // rename it to something verbose
 // make the tests pass
+// HINT read the tests to see what is needed to pass
 func fn(n int) string {
 	return ""
 }
